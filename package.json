@@ -1,6 +1,6 @@
 {
   "name": "egg-xauth",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "Authing plugin for egg",
   "eggPlugin": {
     "name": "authing"
@@ -12,7 +12,7 @@
     "egg-plugin"
   ],
   "dependencies": {
-    "authing-sdk-js": "^4.0.0-alpha.53"
+    "authing-sdk-js": "^4.0.0-alpha.54"
   },
   "devDependencies": {
     "autod": "^3.0.1",
